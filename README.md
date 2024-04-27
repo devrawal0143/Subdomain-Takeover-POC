@@ -1,1 +1,1 @@
-# Nextdoor-Subdomain-Takeover-POC
+# Subdomain-Takeover-POC
